@@ -1,1 +1,1 @@
-This is my normal calculator develop by JAVA
+This is my non-scientific calculator develop by JAVA
